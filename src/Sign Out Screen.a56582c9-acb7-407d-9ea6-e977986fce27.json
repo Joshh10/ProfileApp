@@ -57,6 +57,36 @@
     },
     "children": [
         {
+            "type": "AdMobBanner",
+            "label": "AdMob Banner",
+            "translatedName": "AdMob Banner",
+            "properties": {
+                "Visible": true,
+                "AdUnitID": "ca-app-pub-3940256099942544/6300978111",
+                "AdUnitID_iOS": "ca-app-pub-3940256099942544/6300978111",
+                "TestMode": true,
+                "Width": 375,
+                "Height": 32,
+                "X": -1,
+                "ParentId": "a56582c9-acb7-407d-9ea6-e977986fce27",
+                "Y": 632.390625,
+                "RelativeX": -1,
+                "RelativeY": 632,
+                "position": "absolute",
+                "edgeOffsets": 632.390625,
+                "style": {
+                    "position": "absolute",
+                    "left": "16.666666666666668%",
+                    "top": "64.22648050974513%",
+                    "display": "flex"
+                }
+            },
+            "children": [],
+            "id": "a16b52d0-54e1-481d-acc8-306aaf040366",
+            "thunkableVersion": 446,
+            "name": "AdMob_Banner1"
+        },
+        {
             "type": "Image",
             "translatedName": "Image",
             "properties": {
@@ -117,10 +147,10 @@
                 "Height": 93,
                 "Width": 338,
                 "Visible": true,
-                "X": 20,
-                "Y": 542,
-                "RelativeX": 20,
-                "RelativeY": 542,
+                "X": 19,
+                "Y": 532,
+                "RelativeX": 19,
+                "RelativeY": 532,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -161,7 +191,7 @@
                 },
                 "ParentId": "a56582c9-acb7-407d-9ea6-e977986fce27",
                 "position": "absolute",
-                "edgeOffsets": 542,
+                "edgeOffsets": 532,
                 "children": ""
             },
             "children": [],
