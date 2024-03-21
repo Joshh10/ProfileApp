@@ -62,13 +62,13 @@
             "properties": {
                 "Picture": "joshgram-high-resolution-logo-transparent.png",
                 "resizeMode": "stretch",
-                "Height": 31,
-                "Width": 196,
+                "Height": 57,
+                "Width": 198,
                 "Visible": true,
-                "X": 13,
-                "Y": 12,
-                "RelativeX": 13,
-                "RelativeY": 12,
+                "X": 132,
+                "Y": 13,
+                "RelativeX": 132,
+                "RelativeY": 13,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -95,7 +95,7 @@
                 "capInsets": {},
                 "ParentId": "e9b18026-a26d-4fdd-9ea8-d9d596e03458",
                 "position": "absolute",
-                "edgeOffsets": 12
+                "edgeOffsets": 13
             },
             "children": [],
             "id": "88846706-7152-4272-a8ad-a08ba71c6614",
